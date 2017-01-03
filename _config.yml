@@ -3,7 +3,7 @@ title: 김태영
 description: >
 baseurl: ""
 url: "http://tae-young.github.io"
-github_username: magoon85
+github_username: tae-young
 # Build settings
 markdown: kramdown
 theme: minima
