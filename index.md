@@ -6,9 +6,8 @@ published: true
 #category: index
 #categories: page
 #tags: index
-#title: 마군
+#title: 
 ---
-
 
 <h1> hello</h1>
 
