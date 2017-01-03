@@ -1,0 +1,14 @@
+title: 김태영
+# email: tyhjgood@naver.com
+description: >
+baseurl: ""
+url: "http://tae-young.github.io"
+github_username: magoon85
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
